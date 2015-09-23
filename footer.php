@@ -1,3 +1,3 @@
-	<p><i>Lehe tegi Romil, 2015a</i></p>
+	<p><i>Lehe tegi Reio, 2015a</i></p>
 </body>
 </html>
